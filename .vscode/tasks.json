@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Streamlit",
+      "type": "shell",
+      "command": "streamlit run app.py",
+      "options": { "cwd": "${workspaceFolder}" },
+      "presentation": { "reveal": "always" },
+      "problemMatcher": []
+    }
+  ]
+}
