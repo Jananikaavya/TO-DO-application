@@ -6,3 +6,6 @@ matplotlib
 speechrecognition
 oauth2client
 gspread
+passlib[bcrypt]
+bcrypt
+
