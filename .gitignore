@@ -1,4 +1,4 @@
 .venv/
 __pycache__/
 data/todos.json
-.DS_Store
+.DS_Store.streamlit/secrets.toml
