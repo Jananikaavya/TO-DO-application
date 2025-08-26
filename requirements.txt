@@ -1,10 +1,8 @@
 streamlit
-streamlit
 passlib
 requests
 pandas
 matplotlib
 speechrecognition
-pyaudio   # optional; required for live microphone capture
-oauth2client   # only if you enable gspread
-gspread        # only if you enable Google Sheets sync
+oauth2client
+gspread
